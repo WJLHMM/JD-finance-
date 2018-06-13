@@ -1,0 +1,337 @@
+.sec_member {
+	height: 47.867rem;
+	width: 97.5416rem;
+	background: url(../images/module-bg.02d907c.jpg) no-repeat -13.5351rem 0rem;
+	-webkit-background-size: 97.5416rem,47.867rem;
+	background-size: 97.5416rem,47.867rem;
+}
+
+	.membernav {
+		height: 47.867rem;
+		border: 1px solid #A3A3A3;
+		/* border-radius: 1rem; */
+		box-shadow: 2px 2px 4px #A3A3A3,
+					-2px -2px 4px #A3A3A3,
+					-2px 2px 4px #A3A3A3,
+					2px -2px 4px #A3A3A3;
+	}	
+
+		.membernav_top {
+			width: 100%;
+			height: 6.5076rem;
+			padding-left:16.4859rem;
+			padding-top: 2.5361rem;
+			background: url(../images/member_shortnews.png) no-repeat 0rem 2.2538rem;
+			-webkit-background-size: 10.2rem,2rem;
+			background-size: 10.2rem,2rem;
+		}
+			.membernav_top_menu>li {
+				margin-left: 1.9rem;
+			}
+			.membernav_top_menu .membernav_top_menu_item1 {
+				margin-left: 0.8rem;
+			}
+
+			.membernav_top_menu>span {
+				margin-left: 1.9rem;
+			}
+				.membernav_top_menu_item>a{
+					/* width: 13.1605rem; */
+				}
+				.membernav_top_menu_item>a>p{
+					height: 1.3738rem;
+					width: 2rem;
+					margin-right: 0.3rem;
+					padding-top: 0.2rem;
+				}
+					.membernav_top_menu_item>a>p>img{
+						height: 1.0123rem;
+						width: 1.88rem;
+						margin-right: 0.3rem;
+						display: inline-block;
+					}
+		.membernav_mid {
+			width: 100%;
+			height: 24.9458rem;
+			top: 6.5076rem;
+			left: 0;
+
+		}
+			.membernav_mid_content {
+				width: 66.2774rem;
+				height: 100%;
+				color: #000;
+				padding-top: 2rem;
+				background: #fff url(../images/member-bg.d59898a.png) no-repeat right bottom;
+			}
+				.membernav_mid_content>div>span {
+					margin-left: 1rem;
+				}
+				.membernav_mid_content>div>p {
+					width: 100%;
+					
+				}
+					.membernav_mid_content>div>p>a {
+						width: 100%;
+						text-align: left;
+						margin-top: 1rem;
+						color: #000;
+					}
+				.membernav_mid_content1 {
+					width: 28%;
+					height: 100%;
+					padding-left: 2.3138rem;
+				}
+					.membernav_mid_content1 .member_card{
+						width: 100%;
+						height: 11.0629rem;
+					}
+
+					.membernav_mid_content1 .member_card a{
+						width: 100%;
+						height: 11.0629rem;
+						background: url(../images/member_card.png) no-repeat;
+					}
+					.member_card .member_card_p1 {
+						top: 1.1rem;
+						left: 0.8rem;
+						color: #fff;
+						font-size: 1.5rem;
+					}
+					.member_card .member_card_p2 {
+						top: 3.8rem;
+						left: 0.8rem;
+						color: #fff;
+						font-size: 0.9rem;
+					}
+					.member_card .member_card_p3 {
+						top: 8.1rem;
+						left: 8.778rem;
+						font-size: 0.9rem;
+						color: #fff;
+					}
+
+
+					.membernav_mid_content1 .membernav_mid_content1_p4 a {
+						margin-top: 2rem;
+						font-size: 0.9rem;
+					}
+				.membernav_mid_content2 {
+					width: 33.33%;
+					height: 100%;
+					
+					padding-left: 1.3138rem;
+				}
+					.membernav_mid_content2>p {
+						height: 0.1rem;
+						width: 100%;
+						color: #A3A3A3;
+						text-align: left;
+					}
+					.membernav_mid_content2>li {
+						height: 20%;
+						width: 100%;
+					}
+						.membernav_mid_content2>li>a {
+							width: 100%;
+							margin-top: 2.5rem;
+						}
+						.membernav_mid_content2 li a .membernav_mid_content2_li_p1 {
+							width: 3rem;
+							height: 3rem;
+
+						}
+							.membernav_mid_content2 li a .membernav_mid_content2_li_p1 img {
+								width: 3rem;
+								height: 3rem;
+							}
+						.membernav_mid_content2 li a .membernav_mid_content2_li_p2{
+							margin-left: 1.5rem;
+							font-size: 1.2rem;
+							width: 14.1rem;
+							color: #000;
+							text-align: left;
+						}
+						
+						.membernav_mid_content2 li a .membernav_mid_content2_li_p3{
+							margin-left: 1.5rem;
+							width: 14.1rem;
+							color: red;
+							text-align: left;
+						}
+
+						
+						.membernav_mid_content2_li3 a{
+							text-align: left;
+							color: #000;
+							text-align: left;
+						}
+
+				.membernav_mid_content3 {
+					width: 38%;
+					padding-left: 1rem;
+					
+				}
+				.membernav_mid_content3>span {
+					margin-left: 1rem;
+				    margin-right: 2rem;
+				}
+
+
+				.membernav_mid_content3>ul {
+					width: 100%;
+					height: 14.1rem;
+					margin-top: 4rem;
+				}
+					.membernav_mid_content3>ul>li {
+						width: 42%;
+						height: 15.1rem;
+						box-shadow: 0.08rem 0.08rem 0.16rem #A3A3A3,
+									-0.08rem -0.08rem 0.16rem #A3A3A3,
+									-0.08rem 0.08rem 0.16rem #A3A3A3,
+									0.08rem -0.08rem 0.16rem #A3A3A3;
+					}
+					.membernav_mid_content3>ul>.membernav_mid_content3_ul_li2 {
+						margin-left: 1rem;
+					}
+
+							.membernav_mid_content3>ul>li>p {
+								width: 100%;
+								margin-top: 2.5rem;
+								text-align: center;
+							}
+							.membernav_mid_content3>ul>li>.membernav_mid_content3_ul_li_p2 {
+								width: 100%;
+								text-align: center;
+								font-size: 1.5rem;
+								color:red;
+							}
+							.membernav_mid_content3>ul>li>a {
+								width: 100%;
+								height: 7.2307rem;
+
+							}
+								.membernav_mid_content3>ul>li>a>p {
+									width: 4.483rem;
+									height: 4.483rem;
+									margin-left: 2.9rem;
+									margin-top: 1rem;
+								}
+									.membernav_mid_content3>ul>li>a>p>img {
+										width: 4.483rem;
+										height: 4.483rem;
+										border-radius: 50%
+									}
+								.membernav_mid_content3>ul>li>a>span {
+									width: 100%;
+									height: 1.5rem;
+									margin-top: 1rem;
+									color: blue;
+								}
+		.membernav_mid_aside {
+			width: 19.3950rem;
+			height: 24.9012rem;
+			margin-left: 0.75rem;
+			text-align: center;
+			background: url(../images/app-bg.bd4bf86.png) no-repeat;
+			background-size: 19.3950rem,24.9012rem;
+		}
+			.membernav_mid_aside>h1 {
+					width: 100%;
+					height: 2.3138rem;
+					color: #fff;
+					font-size: 1.5rem;
+					margin-top: 2.3861rem;
+				}
+				.membernav_mid_aside>p {
+					width: 100%;
+					height: 10rem;
+					margin-top: 1rem;
+					padding-left: 4.77rem;
+				}
+					.membernav_mid_aside>p>a {
+						width: 9.9060rem;
+						height: 9.9060rem;
+						background: #fff;
+					}
+						.membernav_mid_aside>p>a>img {
+							width: 9.9060rem;
+							height: 9.9060rem;
+							background: #fff;
+						}
+				.membernav_mid_aside>ul {
+					margin-top: 1rem;
+					padding-left: 4.77rem;					
+				}	
+					.membernav_mid_aside>ul>li {
+						margin-top: 0.5rem;	
+						width: 100%;
+						color: #fff;
+						text-align: left;				
+					}
+
+
+		.membernav_bot {
+			width: 83.9479rem;
+			height: 37.0210rem;
+			margin-left: 1.3738rem;
+			padding-top: 26rem;
+			background: url(../images/coupon-wrap.d646c1c.jpg) no-repeat  0px 0rem;
+			-webkit-background-size:  83.9479rem,37.0210rem;
+			background-size: 83.9479rem,37.0210rem;
+		}
+			.membernav_bot>ul{
+				width: 100%;
+				height: 9.9060rem;
+			}
+				.membernav_bot>ul>li{
+					width: 19.8%;
+					color: #fff;
+					height: 9.9060rem;
+					text-align: center;
+				}
+					.membernav_bot>ul>.coupon_list1>h1{
+						margin-top: 1.2rem;	
+						font-size: 1.5rem;
+					}
+					.membernav_bot>ul>.coupon_list1>p{
+						margin-top: 0.2rem;	
+					}
+						
+						.membernav_bot>ul>.coupon_list1>a{
+							margin-top: 1rem;	
+							margin-left: 3rem;
+							height: 2.6rem;
+							width: 10rem;
+							color: #fff;
+							line-height: 2.6rem;
+							border-radius: 1.4rem;
+							border: 0.16rem solid #fff;
+						}
+						    .membernav_bot>ul>.coupon_list2>a {
+						    	width: 100%;
+						    	height: 100%;
+						    	background: url(../images/coupon_list.png) no-repeat;
+						    }	
+						    .membernav_bot>ul>.coupon_list2>a>.coupon_list2_p1 {
+						    	margin-top: 1.3rem;
+						    	font-size: 2rem;
+						    	color: red;
+						    	text-shadow: 0 0.3615rem 0.43rem #ffb9b9,
+                                             0 -0.3615rem -0.43rem #ffb9b9,
+                                             0 0.3615rem -0.43rem #ffb9b9,
+                                             0 -0.3615rem 0.43rem #ffb9b9;
+						    	
+						    }	 
+						    .membernav_bot>ul>.coupon_list2>a>.coupon_list2_p2 {
+						    	margin-top: 1rem;
+						    	color: #000;
+						    }	 
+						    .membernav_bot>ul>.coupon_list2>a>.coupon_list2_p3 {
+						    	margin-top: 1.3rem;
+						    	color: red;
+						    }	
+
+
+
+

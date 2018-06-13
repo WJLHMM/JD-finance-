@@ -1,0 +1,72 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    /* -webkit-text-size-adjust：none；该属性在chrome>27,IE中无效  */
+    font-family: "Microsoft Yahei",sans-serif;
+}
+
+body {
+    font-size: 1rem;/*1.4 × 10px = 14px */
+    color:#000;}
+
+.clearfix::before,
+.clearfix::after{
+    content:'';
+    display: block;
+    line-height: 0;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+.wrap {
+    width: 86.83rem;
+    display: table;
+    margin: 0 auto;
+}
+
+.fr {
+	float: right;
+}
+
+.fl {
+	float: left;
+}
+
+.pr {
+    position: relative;
+}
+
+.pa {
+    position: absolute;
+}
+
+.dn {
+    display: none;
+}
+
+.dt {
+    display: table;
+}
+.dtc {
+    display: table-cell;
+}
+.db {
+    display: block;
+}
+ul,ol,li{
+    list-style: none;
+}
+
+a{
+    color:#A3A3A3;
+    text-decoration: none;
+    text-align: center;
+ }
+
+a:hover{
+   color: red !important;
+ }
